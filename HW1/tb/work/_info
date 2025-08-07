@@ -1,0 +1,34 @@
+m255
+K4
+z2
+!s11f vlog 2023.3 2023.07, Jul 17 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/ictc/student_data/quangtrung/13_ss13/HW1/tb
+vtest_bench
+2testbench.v
+!s110 1752081502
+!i10b 1
+!s100 hBYXVBG`DY^00ASkOGEo32
+IXHF:Tz^H:FILMl<@]Ebd72
+R0
+w1752081499
+8testbench.v
+Ftestbench.v
+!i122 0
+L0 3 84
+VDg1SIo80bB@j0V0VzS_@n1
+OL;L;2023.3;77
+r1
+!s85 0
+31
+!s108 1752081501.000000
+!s107 testbench.v|
+!s90 testbench.v|
+!i113 0
+o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+tCvgOpt 0
