@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f vlog 2023.3 2023.07, Jul 17 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/ictc/student_data/quangtrung/08_ss8/counter_hw/rtl
+vcounter
+2counter.v
+!s110 1750598326
+!i10b 1
+!s100 cI?GKVb:k?oI@z^LQdg8Q2
+IfRCVk4_:5ZPSA>A:B`7hC2
+R0
+w1750598324
+8counter.v
+Fcounter.v
+!i122 3
+L0 1 24
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 OL;L;2023.3;77
+r1
+!s85 0
+31
+!s108 1750598326.000000
+!s107 counter.v|
+!s90 counter.v|
+!i113 0
+Z3 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z4 tCvgOpt 0
+vregister_file
+2register_file.v
+!s110 1752118431
+!i10b 1
+!s100 K92<cUBd7KZCk02z9I7Eo2
+IDR1EeZzTXGOJaXXbeikC41
+Z5 d/ictc/student_data/quangtrung/13_ss13/HW2/rtl
+w1752118427
+8register_file.v
+Fregister_file.v
+!i122 5
+L0 1 41
+R1
+R2
+r1
+!s85 0
+31
+!s108 1752118431.000000
+!s107 register_file.v|
+!s90 register_file.v|
+!i113 0
+R3
+R4
+vtop
+2top.v
+!s110 1752118011
+!i10b 1
+!s100 m`D[S<DelCZEOD>DgX^__1
+Ih]I[1g^`z<Q3ih5zk9L[l2
+R5
+w1752118008
+8top.v
+Ftop.v
+!i122 4
+L0 1 36
+R1
+R2
+r1
+!s85 0
+31
+!s108 1752118011.000000
+!s107 top.v|
+!s90 top.v|
+!i113 0
+R3
+R4

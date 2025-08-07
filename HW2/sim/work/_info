@@ -1,0 +1,132 @@
+m255
+K4
+z2
+!s12c _opt1
+Z0 !s99 nomlopt
+!s12c _opt
+R0
+!s11f vlog 2023.3 2023.07, Jul 17 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/ictc/student_data/quangtrung/08_ss8/counter_hw/sim
+T_opt
+!s110 1750598336
+VUfGRd_jHNjR]8NYF:U;PH1
+Z2 04 10 4 work test_bench fast 0
+=1-bc2411fb702e-685802bf-b96d1-2d70d
+R0
+Z3 !s12b OEM100
+!s124 OEM10U2 
+Z4 o-quiet -auto_acc_if_foreign -work work -debugdb +acc
+Z5 tCvgOpt 0
+n@_opt
+Z6 OL;O;2023.3;77
+R1
+T_opt1
+!s110 1752121362
+VGFomVjOb6zUEH56IEH`HB0
+R2
+=1-bc2411fb702e-686f4012-9f46-2ee2b8
+R0
+R3
+!s124 OEM10U4 
+R4
+R5
+n@_opt1
+R6
+vcounter
+Z7 2../rtl/top.v|../rtl/register_file.v|../rtl/counter.v|../tb/test_bench.v
+Z8 !s110 1752121359
+!i10b 1
+!s100 cI?GKVb:k?oI@z^LQdg8Q2
+IMkF611XObKNITeSiIAd7o2
+Z9 d/ictc/student_data/quangtrung/13_ss13/HW2/sim
+w1750598324
+8../rtl/counter.v
+F../rtl/counter.v
+!i122 7
+L0 1 24
+Z10 VDg1SIo80bB@j0V0VzS_@n1
+Z11 OL;L;2023.3;77
+r1
+!s85 0
+31
+Z12 !s108 1752121359.000000
+Z13 !s107 ../tb/test_bench.v|../rtl/counter.v|../rtl/register_file.v|../rtl/top.v|
+Z14 !s90 -f|compile.f|
+!i113 0
+Z15 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R5
+vregister_file
+R7
+R8
+!i10b 1
+!s100 K92<cUBd7KZCk02z9I7Eo2
+I=_4DY]i_@fizkS>[KbfXl2
+R9
+w1752118427
+8../rtl/register_file.v
+F../rtl/register_file.v
+!i122 7
+L0 1 41
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R5
+vtest_bench
+R7
+R8
+!i10b 1
+!s100 >nm[:CeeS[A`9fm]Lh@FT1
+IDP6eSmJJd;mi4nF`<_;g_2
+R9
+w1752120847
+8../tb/test_bench.v
+F../tb/test_bench.v
+!i122 7
+L0 4 74
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R5
+vtop
+R7
+R8
+!i10b 1
+!s100 >N3KO6fd?hZgi7f:FoY]E0
+IdcQ@=h]M=eKjmTMZiRhlF2
+R9
+w1752121346
+8../rtl/top.v
+F../rtl/top.v
+!i122 7
+L0 1 36
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R5
