@@ -1,0 +1,82 @@
+m255
+K4
+z2
+!s12c _opt1
+Z0 !s99 nomlopt
+!s11f vlog 2023.3 2023.07, Jul 17 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/ictc/teacher_data/share/ico_new/12_ss12/reg_practice_stu/sim
+T_opt
+!s110 1744553377
+VgfKWjAk36_LVofCBF1:ic0
+Z2 04 10 4 work test_bench fast 0
+=1-bc241189994b-67fbc5a1-2450a-2493ea
+Z3 o-quiet -auto_acc_if_foreign -work work -debugdb +acc
+Z4 tCvgOpt 0
+n@_opt
+OL;O;10.6d_1;65
+R1
+T_opt1
+!s110 1752078294
+V7=CHbM@3`n=GT3hnT_^c]3
+R2
+=1-bc2411fb702e-686e97d6-617f-c9c27
+R0
+!s12b OEM100
+!s124 OEM10U2 
+R3
+R4
+n@_opt1
+OL;O;2023.3;77
+vregset
+Z5 2../rtl/regset.v|../tb/test_bench.vp
+Z6 !s110 1752078288
+!i10b 1
+!s100 =YI;j^GeobGgi8=?nJiOJ1
+IF6<3<BJh=hcZPiDbZQ3lR1
+Z7 d/ictc/student_data/quangtrung/13_ss13/reg_practice/sim
+w1752078280
+8../rtl/regset.v
+F../rtl/regset.v
+!i122 2
+L0 1 41
+Z8 VDg1SIo80bB@j0V0VzS_@n1
+Z9 OL;L;2023.3;77
+r1
+!s85 0
+31
+Z10 !s108 1752078287.000000
+Z11 !s107 ../tb/test_bench.vp|../rtl/regset.v|
+Z12 !s90 -f|compile.f|
+!i113 0
+Z13 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+vtest_bench
+R5
+R6
+!i10b 1
+!s100 @8k`8LGf5lTkST2EN9hW02
+I`Q^RooPhQX^XLl0R4PWc53
+!i119 1
+R7
+w1750944737
+8../tb/test_bench.vp
+F../tb/test_bench.vp
+!i122 2
+L0 1 44
+R8
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 0
+R13
+R4
